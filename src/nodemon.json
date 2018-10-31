@@ -1,0 +1,5 @@
+{ 
+    "watch": ["C:/Workspace-Treinamento/Node"],
+    "exec": "node ./app.js" ,
+    "ext": "js ejs json"
+}
